@@ -12,6 +12,3 @@ console.log(square(10));
 console.log(cube(10));
 console.log(squareRoot(10));
 console.log(power(4, 0));
-
-console.log("ahuevo");
-
